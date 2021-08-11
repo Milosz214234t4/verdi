@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bab8aa6d-47c5-4ead-9eec-47f430082b75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/0_Gulp/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/1_Sass_Instalacja/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/1_Sass_Instalacja/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/1_Sass_Instalacja/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/1_Sass_Instalacja/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/1_Sass_Instalacja/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/1_Sass_Instalacja/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/2_Sass_Podstawy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/2_Sass_Podstawy/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/2_Sass_Podstawy/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/2_Sass_Podstawy/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/2_Sass_Podstawy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/elements/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/elements/_content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/elements/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/elements/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/generic/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/settings/_all.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/settings/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/5_Sass_Mixiny/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/5_Sass_Mixiny/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/5_Sass_Mixiny/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/5_Sass_Mixiny/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/5_Sass_Mixiny/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/5_Sass_Mixiny/scss/_all.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/7_Sass_Listy_Mapy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/7_Sass_Listy_Mapy/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/7_Sass_Listy_Mapy/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/7_Sass_Listy_Mapy/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_1/7_Sass_Listy_Mapy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/3_RWD_Jednostki_w_RWD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/3_RWD_Jednostki_w_RWD/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/3_RWD_Jednostki_w_RWD/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/3_RWD_Jednostki_w_RWD/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/3_RWD_Jednostki_w_RWD/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/4_RWD_Media_Queries/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/4_RWD_Media_Queries/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/5_RWD_Mobile_first/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dzien_2/5_RWD_Mobile_first/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_article.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_banner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_1/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_2/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_2/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/0_Gulp/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/0_Gulp/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/1_Sass_Instalacja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/1_Sass_Instalacja/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/2_Sass_Podstawy/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/2_Sass_Podstawy/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/3_Sass_Zagnieżdżanie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/4_Sass_Partials/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/5_Sass_Mixiny/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/5_Sass_Mixiny/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/6_Sass_Dziedziczenie/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_1/7_Sass_Listy_Mapy/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_1/7_Sass_Listy_Mapy/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/1_Sass_Logika/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/2_Sass_Funkcje/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/3_RWD_Jednostki_w_RWD/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/3_RWD_Jednostki_w_RWD/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/4_RWD_Media_Queries/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/4_RWD_Media_Queries/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/4_RWD_Media_Queries/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/4_RWD_Media_Queries/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/5_RWD_Mobile_first/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/5_RWD_Mobile_first/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dzien_2/5_RWD_Mobile_first/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dzien_2/5_RWD_Mobile_first/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_RWD_Flexbox/fonts/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/fonts/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_RWD_Flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_RWD_Flexbox/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../8_RWD_Flexbox/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_RWD_JavaScript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../9_RWD_JavaScript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_RWD_JavaScript/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../9_RWD_JavaScript/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_RWD_JavaScript/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../9_RWD_JavaScript/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_1/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_2/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3_Zadania_domowe/Dzien_2/scss/main.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1dtpfdEzXDMi5GfoJ7P67iiH1J6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bab8aa6d-47c5-4ead-9eec-47f430082b75" name="Default Changelist" comment="" />
+      <created>1594398597089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594398597089</updated>
+      <workItem from="1594398600006" duration="1331000" />
+      <workItem from="1606732671650" duration="4780000" />
+      <workItem from="1608294802957" duration="483000" />
+      <workItem from="1608296633846" duration="303000" />
+      <workItem from="1609958747658" duration="2067000" />
+      <workItem from="1610019685566" duration="2000" />
+      <workItem from="1611488135261" duration="38000" />
+      <workItem from="1611496690585" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+.section-images{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+
+.container-section-images{
+    display: grid;
+    background-color: white;
+}
+
+
+
+.container-section-images img{
+    width: 100%;
+}
+
+
+
+@media(min-width: 1000px){
+    .section-images{
+        display: flex;
+        justify-content: space-between;
+    }
+    .container-section-images{
+        width: 32%;
+    }
+    .button-first-section{
+        width: 50%;
+        float: left;
+    }
+}
