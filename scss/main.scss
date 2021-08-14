@@ -7,6 +7,7 @@
 @import "../scss/firstsection";
 @import "../scss/sectionimages";
 @import "../scss/lastarticle";
+@import "../scss/links";
 $background: #E4E4E4;
 $fontcolor:  #444444;
 $backgroundlogo: #FC4887;
@@ -14,10 +15,10 @@ $blueborder: #1691C3;
 $backgroundbody: #ececec;
 
 h1{
-  font-size: 30px;
+  font-size: 20px;
 }
 h2{
-  font-size: 20px;
+  font-size: 15px;
   font-weight: lighter;
 }
 
@@ -27,12 +28,11 @@ h1, h2, h3 button{
 }
 
 .header-images-article{
-  font-size: 25px;
+  font-size: 20px;
   text-align: left;
   margin-bottom: 0;
 }
 .images-article-info{
-  font-size: 20px;
   text-align: left;
   margin-bottom: 10px;
   margin-top: 0;
